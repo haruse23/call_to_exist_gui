@@ -1,0 +1,22 @@
+.p-button {
+    background: linear-gradient(
+        135deg,
+        #06b6d4,
+        #10b981
+    ) !important;
+
+    border: none !important;
+}
+
+.p-button:hover {
+    background: linear-gradient(
+        135deg,
+        #0891b2,
+        #059669
+    ) !important;
+}
+
+.p-dialog .p-dialog-title {
+    font-family: "Pontiac", sans-serif;
+    font-size: 16px;
+}
